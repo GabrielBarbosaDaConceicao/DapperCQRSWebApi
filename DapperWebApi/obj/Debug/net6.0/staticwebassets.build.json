@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "mS/pZRtmRDqabyeDwBVEzVePW6GTdRzVCfA7r0GxoWU=",
+  "Source": "DapperWebApi",
+  "BasePath": "_content/DapperWebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
